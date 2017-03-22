@@ -104,6 +104,7 @@ export default {
   }
 
   svg {
+    display: block;
     g {
       transform-origin: 400px 400px;
     }
