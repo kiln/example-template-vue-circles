@@ -1,0 +1,21 @@
+# The 'id' should be a string that uniquely identifies your template
+id: vue-circles
+name: Vue Circles
+author: Tom Flannery
+
+sdk_version: 2
+
+build:
+  # Rebuild rules are also configured in watch.json for use on glitch.com
+  src:
+    directory: src
+    script: npm run build
+
+settings:
+  - property: numCircles
+    name: Number of circles
+    type: number
+
+data:
+  # The data section determines how data is made available to your template,
+  # and the sample data that is used. See the documentation.

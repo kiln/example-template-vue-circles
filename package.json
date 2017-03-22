@@ -1,0 +1,23 @@
+{
+  "name": "flourish-vue-starter",
+  "version": "0.0.1",
+  "description": "A Flourish and vue.js starter template",
+  "scripts": {
+    "build": "webpack",
+    "start": "npm install && flourish run --port=$PORT"
+  },
+  "dependencies": {
+    "@flourish/sdk": "2.1.0",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.0",
+    "css-loader": "^0.27.3",
+    "lodash": "^4.17.4",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.3",
+    "velocity-animate": "^1.4.3",
+    "vue": "^2.2.4",
+    "vue-loader": "^11.1.4",
+    "vue-template-compiler": "^2.2.4",
+    "webpack": "^2.2.1"
+  }
+}
