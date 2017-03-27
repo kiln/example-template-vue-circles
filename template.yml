@@ -1,4 +1,3 @@
-# The 'id' should be a string that uniquely identifies your template
 id: vue-circles
 name: Vue Circles
 author: Tom Flannery
