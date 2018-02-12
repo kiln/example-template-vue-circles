@@ -1,6 +1,7 @@
 id: vue-circles
 name: Vue Circles
 author: Tom Flannery
+autoheight: 1x1
 
 sdk_version: 2
 
