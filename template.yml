@@ -1,9 +1,7 @@
 id: vue-circles
 name: Vue Circles
 author: Tom Flannery
-autoheight: 1x1
-
-sdk_version: 2
+sdk_version: 3
 
 build:
   # Rebuild rules are also configured in watch.json for use on glitch.com
